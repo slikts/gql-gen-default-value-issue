@@ -1,0 +1,17 @@
+{
+  "name": "gql-codegen-default-args-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@graphql-codegen/cli": "^1.0.4",
+    "@graphql-codegen/typescript": "^1.0.4",
+    "graphql": "^14.2.0"
+  }
+}

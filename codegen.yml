@@ -1,0 +1,10 @@
+schema:
+  - "schema.graphql"
+generates:
+  typings.tsx:
+    config:
+      scalars:
+        RawJson: "{ [key: string]: any }"
+      withComponent: false
+    plugins:
+      - typescript
