@@ -2,5 +2,4 @@ scalar Bar
 
 input Foo {
   bar: Bar = {}
-  baz: String = "a"
 }
